@@ -1,0 +1,30 @@
+users
+-_id
+-name
+-email
+-state
+-passwordHash
+-token
+
+states
+-_id
+-name
+
+categories
+-_id
+-name
+-slug
+
+ads
+-_id
+- imagens[{url,default:true}]
+- id_user
+- date created
+-title
+-category
+-price
+-priceNegotiable:true
+-description
+-views
+-status
+
